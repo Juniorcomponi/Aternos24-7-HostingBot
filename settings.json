@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VayronSMP.aternos.me:",
+    "ip": "VayronSMP.aternos.me",
     "port": 57678,
     "version": "1.21.11"
   },
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "",
