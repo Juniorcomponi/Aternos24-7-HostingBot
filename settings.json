@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "VayronSMP.aternos.me",
-    "port":57678,
-    "version": "1.21.11"
+    "port":37743,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
